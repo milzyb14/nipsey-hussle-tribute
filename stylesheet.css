@@ -5,30 +5,25 @@ html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
+    text-align: center;
 
 }
 .container1 .title{
     text-align: center;
-    color: blue;
-    background-color: black;
-    margin: 0 300px 0 300px;
-    padding: 2px;
+    color: white;
 }
 
 .containter2 .about{
-    color: blue;
-    background-color: black;
+    color: white;
     text-align: center;
-    font-size: 25px;
-    margin: 100px 300px 0 300px;
-    padding: 2px;
 }
 .container3 .thoughts{
-    color: blue;
-    background-color: black;
-    text-align: center;
-    font-size: 25px;
-    margin: 10px 300px 10px 300px;
-    padding: 2px;
+    color: white;
+}
+.inspire .me{
+    color: white;
+}
 
+ul{
+    list-style: none;
 }

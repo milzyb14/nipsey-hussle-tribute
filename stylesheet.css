@@ -1,0 +1,34 @@
+
+html{
+    background-image: url(nipsey2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+.container1 .title{
+    text-align: center;
+    color: blue;
+    background-color: black;
+    margin: 0 300px 0 300px;
+    padding: 2px;
+}
+
+.containter2 .about{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+    margin: 100px 300px 0 300px;
+    padding: 2px;
+}
+.container3 .thoughts{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+    margin: 10px 300px 10px 300px;
+    padding: 2px;
+
+}
